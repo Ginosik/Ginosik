@@ -1,5 +1,8 @@
 ### Hei hei!👋
 
+- 🔭 I’m currently working on Java Spring.
+- 🌱 I’m currently learning MERN stack.
+
 <!--
 **Ginosik/Ginosik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

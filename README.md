@@ -1,6 +1,6 @@
 ### Hei hei!👋
 
-- 🔭 I’m currently working on Java Spring.
+- 🔭 I’m currently working with Java Spring.
 - 🌱 I’m currently learning PERN stack.
 
 <div align="center">
